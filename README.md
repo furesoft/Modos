@@ -9,7 +9,7 @@ Included in the Base-Kernel:
 - Pluggable Virtual Filesystem
 - Pluggable Program environment. You could focus on non-managed applications or managed .net applications. Modos will install the .Net Executor by default. You can easily create your own environments
 - Event-Handling System
-- Shared-Memory and Pipes
+- Message based Communication between Applications
 - Procces-Management
 
 Possible Modules:
